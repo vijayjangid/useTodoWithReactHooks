@@ -1,0 +1,13 @@
+/*
+Color scheme : https://coolors.co/f55d3e-4d514e-f7cb15-ffffff-76bed0
+*/
+body,
+* {
+  font-family: "Open Sans Condensed", sans-serif;
+  background: #ffffff;
+  color: #4d514e;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}

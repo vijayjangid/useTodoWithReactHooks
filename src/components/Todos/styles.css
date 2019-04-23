@@ -1,0 +1,30 @@
+.text-new-todo,
+.btn-new-todo,
+.btn-delete-todos {
+  padding: 10px 15px;
+  font-size: 1.4rem;
+  border: none;
+  outline: none;
+}
+button {
+  margin: 0 5px;
+  cursor: pointer;
+}
+.text-new-todo {
+  border-bottom: solid 1px #4d514e;
+  min-width: 350px;
+}
+.text-new-todo:focus {
+  border-bottom-color: #76bed0;
+}
+.btn-new-todo i {
+  color: #76bed0;
+}
+.btn-delete-todos i {
+  color: #f55d3e;
+}
+.todos-container {
+  margin: 30px auto 0;
+  width: 80vw;
+  background: none;
+}
